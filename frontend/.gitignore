@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node.js
+node_modules/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
