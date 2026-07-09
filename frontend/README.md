@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Sports Injury Risk Detection
+# Sports Injury Risk Detection
+
+## Update
+Implemented user registration using FastAPI, PostgreSQL, and password hashing.
+## Update
+Implemented user registration using FastAPI, PostgreSQL, and password hashing.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
